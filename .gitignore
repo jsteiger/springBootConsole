@@ -1,0 +1,12 @@
+*.iml
+.gradle
+build
+.idea
+*.out
+*.tar
+*.ipr
+*.iws
+target
+*.log
+classes
+out
